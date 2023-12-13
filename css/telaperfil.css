@@ -1,0 +1,99 @@
+body{
+    margin: 0;
+    padding: 0;
+      background-repeat: no-repeat;
+      background-size: cover;
+      display: flex;
+}
+
+header button{
+    display: flex;
+      height: 50px;
+      margin-top: -215px;
+      margin-left: 10px;
+  }
+
+h2{
+    color: white;
+  font-size: 18px;
+  margin-left: 55px;
+  margin-top: -48px;
+  
+  }
+
+
+/*Imagens do perfil*/
+.imagens{
+    align-items: center;
+    display: flex;
+    margin-top: -2px;
+}
+
+/*Nome do perfil*/
+.nome{
+  display: flex;
+    color: pink;
+    margin-top: 68px;
+
+}
+
+/*Localidade do perfil*/
+p{
+  display: flex;
+  color: white;
+}
+
+
+main{
+    display: flex;
+}
+
+.bloco{
+  display: flex;
+  flex-direction: column;
+  padding-left: -90px;
+}
+
+
+/*Retangulo Branco*/
+.branco{
+    display: flex;
+    margin-top: 190px;
+    margin-left: -360px;
+  }
+  
+  /*Foto de perfil*/
+  .perfil{
+    width: 100px;
+    height: 100px;
+    margin-top: 36px;
+    align-items: center; 
+  }
+
+footer{
+    display: flex;
+    align-items: center;
+}
+
+
+footer button{
+    display: flex;
+    align-items: center;
+    margin-top: 600px;
+    margin-left: -490px;
+    width: 298px;
+    height: 54px;
+    border-radius: 8px;
+    background: #F93030;
+
+}
+
+footer button a{
+  display: flex;
+    text-decoration: none;
+    align-items: center;
+    color: white;
+
+}
+
+
